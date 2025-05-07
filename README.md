@@ -20,7 +20,7 @@ This is a Vite-style JavaScript project using Three.js and custom vertex/fragmen
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/suzubu/shader-png-distortion.git
+git clone https://github.com/suzubu/peeling_letters.git
 
 # 2. Open index.html in a modern browser
 open index.html
