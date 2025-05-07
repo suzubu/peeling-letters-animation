@@ -1,4 +1,4 @@
-# 🌀 Shader PNG Distortion
+# 🌀 Peeling Letters Animation
 
 > A Three.js experiment using GLSL shaders to create a distortion effect on a PNG image based on mouse proximity.
 
