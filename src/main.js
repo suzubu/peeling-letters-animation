@@ -3,8 +3,8 @@ import * as THREE from "three"; // Main Three.js library
 import "./style.css"; // External styles for layout/canvas
 
 // === [ Texture Files ] ===
-const texture = "/Dark2.png"; // Main PNG (shown with shader distortion)
-const shadow_texture = "/Blurred2.png"; // Secondary PNG (adds soft blur/overlay)
+const texture = "/Dark.png"; // Main PNG (shown with shader distortion)
+const shadow_texture = "/Blurred.png"; // Secondary PNG (adds soft blur/overlay)
 
 // === [ Scene Setup ] ===
 const scene = new THREE.Scene();

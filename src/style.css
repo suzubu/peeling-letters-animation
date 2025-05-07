@@ -1,11 +1,9 @@
-/* src/style.css */
-
 html,
 body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: #111; /* dark background so PNGs are visible */
+  background: #111; /* dark background for visibility of PNG */
 }
 
 canvas {
