@@ -45,7 +45,6 @@ open index.html
 - Uses `uDisplacement` uniform to pass interaction point into both shaders
 - Main shader modifies vertex Z-position based on distance to cursor
 - Shadow shader adjusts alpha to give soft edge highlight
-- `Dark2.png` and `Blurred2.png` must be present in your `/public` or root directory
 
 ---
 
