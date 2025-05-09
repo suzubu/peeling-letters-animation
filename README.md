@@ -99,5 +99,4 @@ MIT — enjoy, remix, and credit appreciated.
 ---
 
 ## 🙋‍♀️ Author
-
-Built by [suzubu](https://github.com/suzubu) using Three.js and GLSL.
+Made with ☕ + 🎧 by [suzubu](https://github.com/suzubu) using Three.js and GLSL.
