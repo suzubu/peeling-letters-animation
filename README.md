@@ -1,4 +1,4 @@
-# 🌀 Peeling Letters Animation
+# 🌀 Peeling Letters Effect
 
 > A Three.js experiment using GLSL shaders to create a distortion effect on a PNG image based on mouse proximity.
 
@@ -20,7 +20,7 @@ This is a Vite-style JavaScript project using Three.js and custom vertex/fragmen
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/suzubu/peeling-letters-animation.git
+git clone https://github.com/suzubu/peeling-letters-effect.git
 
 # 2. Open index.html in a modern browser
 open index.html
